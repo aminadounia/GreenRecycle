@@ -1,3 +1,5 @@
+- Remarque :Pour tester le back end functionel et la base de données vous trouver le rest.js et la base de données sql sous ce dossier : https://drive.google.com/drive/folders/11oXj1jmNfpRr_a8c_-te4vc--mG5godp?usp=share_link
+
 - About the project :
 	Our solution to tackle the issue of waste and environmental pollution is GreenCycle - a mobile application that serves as a "be-to-be" system.
 	The app connects people and organizations that possess recyclable materials and wish to derive value from them, rather than discarding them and 
