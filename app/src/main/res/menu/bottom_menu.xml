@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment1"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:visible="true"
+        android:title="" />
+    <item
+        android:id="@+id/orderFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:visible="true"
+        android:title="" />
+    <item
+        android:id="@+id/profilFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_person"
+        android:visible="true"
+        android:title="" />
+
+
+
+</menu>
